@@ -1,0 +1,1 @@
+# sinir-aglari-ile-zaman-serisi-analizi-ve-tahmini
